@@ -9,7 +9,7 @@ package javaapplication1;
  *
  * @author piasim
  */
-public class Entkoffeiniert {
+public class Entkoffeiniert extends Getränk{
     
     public void preis() {
         

@@ -9,7 +9,7 @@ package javaapplication1;
  *
  * @author piasim
  */
-public class Milchschaum {
+public class Milchschaum extends ZutatenDekorierer{
     
     public void getBeschreibung() {
         

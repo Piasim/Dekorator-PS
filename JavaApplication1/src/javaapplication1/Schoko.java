@@ -9,7 +9,7 @@ package javaapplication1;
  *
  * @author piasim
  */
-public class Schoko {
+public class Schoko extends ZutatenDekorierer{
     
     public void getBeschreibung() {
         

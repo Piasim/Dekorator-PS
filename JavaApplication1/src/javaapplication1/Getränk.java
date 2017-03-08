@@ -10,6 +10,7 @@ package javaapplication1;
  * @author piasim
  */
 public class Getränk {
+    String beschreibung;
     
     public void getBeschreibung() {
         
